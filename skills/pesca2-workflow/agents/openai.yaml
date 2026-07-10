@@ -1,4 +1,0 @@
-interface:
-  display_name: "Pesca2 Workflow"
-  short_description: "Guardrails for every Pesca2 change"
-  default_prompt: "Prepare and implement a change in Pesca2."

@@ -4,7 +4,7 @@ Estas instruções pertencem exclusivamente a este repositório. Antes de invest
 
 ## Antes de qualquer alteração
 
-1. Confirme que a instância ativa do Roblox Studio é `Pesca2`.
+1. O MCP do roblox para que você tenha controle total sobre o projeto dentro do roblox já está condigurado, então é só usar.
 2. Leia `ServerStorage.CheckList`. A descrição é a fonte de verdade para entender o jogo e o contexto de cada pedido; o checklist define o que ainda falta para o jogo ficar pronto.
 3. Inspecione os scripts, a hierarquia e as convenções que a alteração toca antes de editar.
 4. Faça alterações no projeto pelo MCP do Roblox, já configurado no Codex e no Antigravity para a instância aberta `Pesca2`.
