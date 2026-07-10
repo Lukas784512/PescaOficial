@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pesca2 3D"
+  short_description: "Build the Pesca2 world and 3D objects"
+  default_prompt: "Create or update Pesca2 scenery or a 3D object."

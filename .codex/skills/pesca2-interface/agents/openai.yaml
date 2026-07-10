@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pesca2 Interface"
+  short_description: "Build consistent Pesca2 UI and item art"
+  default_prompt: "Create or update the Pesca2 interface."
