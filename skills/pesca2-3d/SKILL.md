@@ -9,7 +9,7 @@ Before doing anything else, load and follow the `pesca2-workflow` skill. Its pre
 
 ## Scene rules
 
-- Create all scenery in the edit-time `Workspace`, visibly present before Play starts. Do not generate scenario elements when a player joins.
+- Create all scenery in the edit-time `Workspace`, visibly present before Play starts. Do not generate scene elements when a player joins.
 - Build basic structural scenery (ground, walls, platforms, simple architecture) from detailed Roblox Parts.
 - When using Parts, favor a blocky, tiled aesthetic inspired by Grow a Garden rather than plain oversized primitives.
 - Use simple Parts for simple functional objects too, such as a fishing rod or loot block, when they can support the required detail and animation.
